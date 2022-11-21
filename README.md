@@ -1,6 +1,8 @@
 # Proyecto4_Visualización
 ![gilbert](https://user-images.githubusercontent.com/113017465/203173021-6dda5974-4470-4a8a-8514-af5cdac6246c.jpg)
 
+ Link Tableau: https://public.tableau.com/app/profile/ari.mugon/viz/RugbyyEscuelas/Historia1?publish=yes
+
 En este proyecto se nos pide que llevemos a cabo la isualización de a ETL utilizada en el proyecto anterior. Las herramientas permitidas para llevar a cabo este proyecto son Tableau, PowerBi o Python. En mi caso elijo Tableau ya que mi proyecto está muy centrado en "contar una historia" y porque tuve algún problema a la hora de realizar las gráficas con PowerBi.
 
 ## Proceso llevado a cabo:
@@ -9,7 +11,7 @@ Utilizando la ETL del proyecto anterior, realizo un par de extraciones de inform
 Como proceso de extración vuelvo a decantarme por el web scraping con Selenium.
    
    
-## Tableu:
+## Tableau:
 Mi historia consta de 7 dashboards y un total de 10 hojas con sus correspondientes gráficos.
 
 ### Primer dashboard:
